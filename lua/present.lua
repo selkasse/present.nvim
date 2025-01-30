@@ -226,7 +226,9 @@ end
 
 
 
-M.start_presentation { bufnr = 383 }
+-- M.start_presentation { bufnr = 383 }
+
+M._parse_slides = parse_slides -- prefix with `_` to denote it's a test
 
 
 return M
