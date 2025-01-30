@@ -11,3 +11,7 @@ require('present').start_presentation {}
 ```
 
 Use `n` and `p` to navigate markdown slides
+
+# Credits
+
+teej_dv
